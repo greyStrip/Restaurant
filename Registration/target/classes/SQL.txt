@@ -1,0 +1,6 @@
+create table login(
+	user_id int primary key,
+	first_name varchar(20),
+	last_name varchar(20),
+	password varchar(20)
+);
